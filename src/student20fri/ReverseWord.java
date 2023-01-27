@@ -5,7 +5,7 @@
 package student20fri;
 import java.util.Scanner;
 /**
- *
+ *Hello there
  * @author Ben Praseuth
  */
 public class ReverseWord {

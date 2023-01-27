@@ -13,7 +13,15 @@ public class Student20Fri {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+       private String address;
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
        private String studentId;
        private String studentName;
        
